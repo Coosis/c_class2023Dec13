@@ -1,0 +1,4 @@
+ip=10.24.10.100
+dbname=sys
+passw=319009
+router=this is the router
